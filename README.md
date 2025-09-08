@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @pashaamiriali
+- Goodbye, friends, forgive me. 👋
+
+- about me:
 - 👀 I’m interested in How the brain works and how to work with it. (it includes a little 
     bit of python for the magical stuff and a bit of dart, java, c#, php, html, css... to showcase the magic!).
 - 🌱 I’m currently learning statistics in python (so that I can view things from the top).
